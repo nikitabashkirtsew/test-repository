@@ -1,0 +1,4 @@
+let dog = awrf;
+let cat = meow;
+if dog === cat
+	consolelog ("yipeee");
